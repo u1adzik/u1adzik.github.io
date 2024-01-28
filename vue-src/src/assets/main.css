@@ -1,0 +1,28 @@
+@import url(base.css);
+body {
+  background-color: #000;
+  color: #fff;
+}
+
+.button {
+  display: inline-block;
+  position: relative;
+  padding: 7px 15px;
+  border: 2px solid white;
+  box-shadow: 5px 5px 0px 0px white;
+  transition: 0.2s;
+  top: -5px;
+  left: -5px;
+  margin-left: 5px;
+  font-size: 16px;
+}
+
+.button:hover {
+  top: 0;
+  left: 0;
+  box-shadow: none;
+}
+
+.button:active {
+  top: 3px;
+}/*# sourceMappingURL=main.css.map */
