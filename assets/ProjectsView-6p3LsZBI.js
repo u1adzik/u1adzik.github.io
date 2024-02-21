@@ -1,0 +1,1 @@
+import{N as e}from"./NavBar-BX07Y50R.js";import{b as r,c as a,e as t}from"./index-Dbwcs9MZ.js";const m={__name:"ProjectsView",setup(o){return(c,s)=>(r(),a("header",null,[t(e)]))}};export{m as default};
